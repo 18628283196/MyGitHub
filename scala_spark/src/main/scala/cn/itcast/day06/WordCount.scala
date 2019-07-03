@@ -1,4 +1,4 @@
-package cn.itcast
+package cn.itcast.day06
 
 import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
